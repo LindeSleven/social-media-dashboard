@@ -1,9 +1,10 @@
 # Social media dashboard with theme switcher
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
-The task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
+This project is a [Frontend Mentor](https://www.frontendmentor.io) challenge.
 
 ## The challenge
+
+The task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
 
 The users should be able to:
 
